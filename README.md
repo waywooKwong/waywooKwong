@@ -13,20 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋 This is WeiHua ！✨ 
- 
+## Hi there 👋 This is Weihua ！✨ 
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/waywooKwong)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](w00wayKwong@gmail.com)
 [![Nankai University](https://img.shields.io/badge/Nankai%20Uni.%20Mail-7E0C6E?style=flat&logoColor=white)](mailto:2211992@mail.nankai.edu.cn)
 
- 
 Welcome to my Github page! 
+
 I am Kuang weihua, SoftwareEngineer Student in Nankai Univercity, Tianjin, China
-Interest in AIOps and NLP (mainly LLM and dialect)
+
+Interest in **AIOps** and **NLP** (mainly LLM and dialect)
  
 <img align="right" alt="img" src="https://github.com/waywooKwong/waywooKwong/blob/main/assets/ai-boy.png" width="50%" height="auto" />
- 
  
 ### 🔭 Things Currently Working on : 
 - AIOps Scientific Search in **Software Change** area
@@ -45,17 +44,19 @@ Interest in AIOps and NLP (mainly LLM and dialect)
 ### :computer: Tech. Stack : 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zhanglina94&show_icons=true&hide_border=true" />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/broccolijs/broccolijs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 </p>
 
-More info refer to the [website](https://www.kuangweihua.com).
+### 📫 More info refer to [Weihua's Website](https://www.kuangweihua.com).
+
+Contact me through email given heading.
