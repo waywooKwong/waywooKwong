@@ -25,7 +25,7 @@ I am Kuang weihua, a SoftwareEngineer Student in Nankai Univercity
 
 Interest in **AIOps** and **NLP** (mainly Multi-Agents System and Dialect)
  
-<img align="right" alt="img" src="https://github.com/waywooKwong/waywooKwong/blob/main/assets/ai-boy.png" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/waywooKwong/waywooKwong/blob/main/assets/pic02.jpg" width="50%" height="auto" />
  
 ### 🔭 Things Currently Working on : 
 - AIOps Scientific Search in **Software Change** area
