@@ -25,23 +25,24 @@ Welcome to my Github page!
 I am Kuang weihua, SoftwareEngineer Student in Nankai Univercity, Tianjin, China
 Interest in AIOps and NLP (mainly LLM and dialect)
  
-<img align="right" alt="img" src="https://github.com/waywooKwong/waywooKwong/assets/MAS4SE-logo.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/waywooKwong/waywooKwong/blob/main/assets/ai-boy.png" width="50%" height="auto" />
  
  
-### 🔭 Things Currently Working on  : 
-- AIOps Scientific Search in Software Change area
-- Muilti-Agents System (MAS) in LangGraph
+### 🔭 Things Currently Working on : 
+- AIOps Scientific Search in **Software Change** area
+- **MAS4SE**: Muilti-Agents System (MAS) Project in LangGraph
 - LLM application by Ollama
 - Chinese Dialect study in NLP
+- **NKcanteen**: Vue project
 - [Weihua's Website: www.kuangweihua.com](https://www.kuangweihua.com) 🚀 
  
-### 🌱 Things Recently Interested in ⚡ : 
+### 🌱 Things Recently Interested in : 
 - [AIOps](https://nkcs.iops.ai/)(Artificial Intelligence for IT Operations)
 - LLM Development structure: LangChain & LangGraph
 - Muiti-Agents System 
 - Chinese Dialect
 
-### :computer: Tech. Stack :computer: : 
+### :computer: Tech. Stack : 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zhanglina94&show_icons=true&hide_border=true" />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
@@ -57,4 +58,4 @@ Interest in AIOps and NLP (mainly LLM and dialect)
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/broccolijs/broccolijs-ar21.svg"></code>
 </p>
 
-If you want to know more, please refer to the my [website](https://www.kuangweihua.com).
+More info refer to the [website](https://www.kuangweihua.com).
