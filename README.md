@@ -53,20 +53,20 @@ Interest in **AIOps** and **NLP** (mainly Multi-Agents System and Dialect)
 <code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <br />
 <code><img width="100" height="45" src="https://github.com/waywooKwong/waywooKwong/blob/main/assets/langchain.svg"></code>
-<code><img width="10%" height="40" src="https://github.com/cncf/landscape/blob/master/hosted_logos/ollama.svg"></code>
-<code><img width="100" height="35" src="https://github.com/gilbarbara/logos/blob/main/logos/qdrant.svg"></code>
+<code><img width="100" height="45" src="https://github.com/cncf/landscape/blob/master/hosted_logos/ollama.svg"></code>
+<code><img width="100" height="45" src="https://github.com/gilbarbara/logos/blob/main/logos/qdrant.svg"></code>
 <br />
-<code><img width="10%" height="45" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" height="45" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
-<code><img width="10%" height="45" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <br />
 <code><img width="100" height="45" src="https://github.com/waywooKwong/waywooKwong/blob/main/assets/cpp.svg"></code>
-<code><img width="10%" height="45" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg"></code>
+<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg"></code>
 <code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 <br />
-<code><img width="10%" height="50" src="https://github.com/detain/svg-logos/blob/master/svg/l/latex.svg"></code>
-<code><img width="10%" height="50" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/markdown.svg"></code>
-<code><img width="10%" height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="100" height="45" src="https://github.com/detain/svg-logos/blob/master/svg/l/latex.svg"></code>
+<code><img width="100" height="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/markdown.svg"></code>
+<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
 ### 📫 More info refer to [Weihua's Website](https://www.kuangweihua.com).
