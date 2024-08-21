@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 Welcome to my Github page! 
 
-I am Kuang weihua, a SoftwareEngineer Student in Nankai Univercity
+I am Kuang weihua, a Software Engineer Student in Nankai University
 
 Interest in **AIOps** and **NLP** (mainly Multi-Agents System and Dialect)
  
