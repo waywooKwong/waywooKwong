@@ -44,13 +44,13 @@ Interest in **AIOps** and **NLP** (mainly Multi-Agents System and Dialect)
 ### :computer: Tech. Stack : 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zhanglina94&show_icons=true&hide_border=true" />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <br />
 <code><img width="100" height="45" src="https://github.com/waywooKwong/waywooKwong/blob/main/assets/langchain.svg"></code>
 <code><img width="10%" height="40" src="https://github.com/cncf/landscape/blob/master/hosted_logos/ollama.svg"></code>
@@ -62,7 +62,7 @@ Interest in **AIOps** and **NLP** (mainly Multi-Agents System and Dialect)
 <br />
 <code><img width="100" height="45" src="https://github.com/waywooKwong/waywooKwong/blob/main/assets/cpp.svg"></code>
 <code><img width="10%" height="45" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 <br />
 <code><img width="10%" height="50" src="https://github.com/detain/svg-logos/blob/master/svg/l/latex.svg"></code>
 <code><img width="10%" height="50" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/markdown.svg"></code>
