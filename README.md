@@ -23,7 +23,7 @@ Welcome to my Github page!
 
 I am Kuang weihua, a Software Engineer Student in Nankai University
 
-Interest in **AIOps** and **NLP** (mainly Multi-Agents System and Dialect)
+Interest in **AIOps** and **NLP** (mainly Multi-Agents System in LLM and Dialect)
  
 <img align="right" alt="img" src="https://github.com/waywooKwong/waywooKwong/blob/main/assets/pic02.jpg" width="50%" height="auto" />
  
