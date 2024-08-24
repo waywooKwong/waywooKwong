@@ -67,6 +67,7 @@ Interest in **AIOps** and **NLP** (mainly Multi-Agents System in LLM and Dialect
 <code><img width="100" height="45" src="https://github.com/detain/svg-logos/blob/master/svg/l/latex.svg"></code>
 <code><img width="100" height="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/markdown.svg"></code>
 <code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<img width="40%" height="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waywooKwong&hide_langs_below=1&layout=compact&hide_border=true" />
 </p>
 
 ### 📫 More info refer to [Weihua's Website](https://www.kuangweihua.com).
